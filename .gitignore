@@ -1,0 +1,6 @@
+# npm packages
+node_modules
+
+# no .js and .js.map files, since we transpile them from .ts
+app/*.js
+app/*.js.map
